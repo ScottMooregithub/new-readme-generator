@@ -1,6 +1,10 @@
 # Readme Generator
 
-![Demo](./demo.mov)
+
+
+https://user-images.githubusercontent.com/100390818/171103510-fb67e526-6825-483d-885e-803b45dc16f2.mp4
+
+
 
 ## ✏️ Table of Contents
 

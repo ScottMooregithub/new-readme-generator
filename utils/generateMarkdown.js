@@ -49,27 +49,30 @@ function generateMarkdown(data) {
 - [Usage](#usage)
 - [About](#about)
 - [Contribution](#contribution)
+- [Questions](#questions)
 
 ${renderLicenseSection(data.license)}
 
 ## 📄 Description 
 
-${data.description}
+ ${data.description}
 
 ## 💿 Installation
 
-${data.installation}
+ ${data.installation}
 
 ## 🧰 Usage
 
-- ${data.usage}
-
-## 📝 About
-${data.about}
+ ${data.usage}
 
 ## 🧑‍💻 Contribution
-${data.contribution}
+ ${data.contribution}
 
+## 📝 About
+ ${data.about}
+
+
+## ❔Questions
 - ${data.email}
 - ${data.github}
 

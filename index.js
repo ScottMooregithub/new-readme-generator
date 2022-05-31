@@ -2,6 +2,7 @@
 
 const fs = require("fs");
 const inquirer = require("inquirer");
+const { type } = require("os");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // TODO: Create an array of questions for user input
@@ -52,6 +53,11 @@ const questions = [
     name: "github",
     message: "Please link your github link repository",
   },
+  {
+    type: "input",
+    name: "about",
+    message: "Tell me about you project!",
+  },
 ];
 
 // TODO: Create a function to write README file
@@ -71,18 +77,4 @@ async function init() {
 }
 
 // Function call to initialize app
-//init();
-
-writeToFile(
-  "./README.md",
-  generateMarkdown({
-    title: "new",
-    description: "fuck",
-    license: "MIT",
-    installation: "fuck",
-    usage: "fuck",
-    contribution: "fuck",
-    email: "fuck",
-    github: "fuck ",
-  })
-);
+init();

@@ -1,5 +1,6 @@
+# Readme Generator
 
-  # asd
+![Demo](./demo.mov)
 
 ## ✏️ Table of Contents
 
@@ -11,31 +12,33 @@
 - [Contribution](#contribution)
 - [Questions](#questions)
 
-## License  
-  (https://opensource.org/licenses/MIT)
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+## License
 
-## 📄 Description 
+(https://opensource.org/licenses/MIT)
 
- asd
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## 📄 Description
+
+it generates a personal readme file
 
 ## 💿 Installation
 
- sad
+inquirer
 
 ## 🧰 Usage
 
- asd
+How to start it and what packages are required
 
 ## 🧑‍💻 Contribution
- asd
+
+Scott Moore
 
 ## 📝 About
- asd
 
+It creates a personally generated readme file using inquirer prompt questions
 
 ## ❔Questions
-- asd
-- 
 
+- scotmooresrjc@gmail.com
+- https://scottmooregithub.com

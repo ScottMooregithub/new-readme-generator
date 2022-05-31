@@ -62,7 +62,6 @@ ${renderLicenseSection(data.license)}
  ${data.installation}
 
 ## 🧰 Usage
-
  ${data.usage}
 
 ## 🧑‍💻 Contribution
